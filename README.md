@@ -47,7 +47,9 @@ Pursuing hands-on mastery of **AWS-based DevOps workflows** — deploying scalab
 
 ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevin-ndolo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-ndolo&layout=compact&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-ndolo&layout=compact&theme=tokyonight) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-ndolo&layout=compact&theme=tokyonight&hide=html,css)
 
 
 ---
